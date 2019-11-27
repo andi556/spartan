@@ -1,0 +1,10 @@
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.exe.config
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.exe
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\bin\Release\CalculatorApp.pdb
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.Calculator.resources
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.Properties.Resources.resources
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.exe
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.pdb
+C:\Users\andreea.belenesi\Desktop\CalculatorApp\CalculatorApp\obj\Release\CalculatorApp.csprojAssemblyReference.cache

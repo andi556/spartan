@@ -1,0 +1,15 @@
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.exe.config
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.exe
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\bin\Debug\RealEstateApp.pdb
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.csprojAssemblyReference.cache
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\MainWindow.g.cs
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\App.g.cs
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp_MarkupCompile.cache
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp_MarkupCompile.lref
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\MainWindow.baml
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.g.resources
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.Properties.Resources.resources
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.csproj.GenerateResource.cache
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.csproj.CoreCompileInputs.cache
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.exe
+C:\Users\andreea.belenesi\Desktop\RealEstateApp\RealEstateApp\obj\Debug\RealEstateApp.pdb

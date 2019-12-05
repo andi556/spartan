@@ -1,0 +1,38 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealEstateApp"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="RealEstateApp.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="304" Width="466">
+    <Grid>
+        <ComboBox x:Name="ComboBoxTipLocuinta" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top" Width="209" SelectionChanged="ComboBox_SelectionChanged">
+            <System:String>Casa</System:String>
+            <System:String>Apartament</System:String>
+            <System:String>Garsoniera</System:String>
+            <System:String>Studio</System:String>
+        </ComboBox>
+        <Label x:Name="LabelTipLocuinta" Content="Selectati un tip de locuinta" HorizontalAlignment="Left" Margin="10,4,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LabelNivele" Content="Numar de nivele" HorizontalAlignment="Left" Margin="285,4,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.368,-0.038" Visibility="Hidden"/>
+        <ComboBox x:Name="ComboBoxNivele" HorizontalAlignment="Left" Margin="285,30,0,0" VerticalAlignment="Top" Width="120" Visibility="Hidden">
+            <System:String>1</System:String>
+            <System:String>2</System:String>
+        </ComboBox>
+        <Label x:Name="LabelNumarCamere" Content="Numar de camere" HorizontalAlignment="Left" Margin="285,4,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.553,0.231" Visibility="Hidden"/>
+        <ComboBox x:Name="ComboBoxNumarCamere" HorizontalAlignment="Left" Margin="285,30,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBoxNumarCamere_SelectionChanged" Visibility="Hidden">
+            <System:String>2</System:String>
+            <System:String>3</System:String>
+            <System:String>4</System:String>
+        </ComboBox>
+        <CheckBox x:Name="CheckBoxAC" Content="AC" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" Width="100"/>
+        <CheckBox x:Name="CheckBoxPriveliste" Content="Priveliste" HorizontalAlignment="Left" Margin="10,89,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="CheckBoxGaz" Content="Gaz" HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="CheckBoxUtilitatiSmart" Content="Utilitati Smart" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top"/>
+        <Button Content="Calculeaza totalul" HorizontalAlignment="Left" Margin="173,159,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click"/>
+        <Label x:Name="LabelTotalPret" Content="Total pret locuinta:" HorizontalAlignment="Left" Margin="12,201,0,0" VerticalAlignment="Top" Width="134" FontSize="14" Visibility="Hidden"/>
+        <Label x:Name="LabelTotal" Content="Label" HorizontalAlignment="Left" Margin="173,204,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
